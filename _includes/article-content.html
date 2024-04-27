@@ -35,7 +35,7 @@
 
         <div class="article__bottom-meta">
           {% if site.author.name %}
-            <a href="{{site.baseurl}}/about/" class="article__author-link">{{ site.author.name }}</a>
+            <a href="{{site.baseurl}}/about/" class="article__author-link">{{ site.author.name }} {{post.auth}}</a>
           {% endif %}
           {% if post.tags.size >= 1 %}
             <span>in</span>
