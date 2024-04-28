@@ -1,33 +1,55 @@
-# Página ScenePT
+# Página web ScenePT
+
+# Tema original
 Baseada no tema [Norlin](https://norlin.netlify.app/).
 
+## Status Deplyment
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8fa856e0-8f6c-40c9-8932-4aca71bad079/deploy-status)](https://app.netlify.com/sites/scenept01/deploys)
 
 
-
-# Norlin
-
-Norlin is a creative modern theme with a clean design specially created for dark themes lovers.
-
-Norlin theme is fully responsive and looks great on mobile devices and has a beautiful and modern design that is best suited for your personal or corporate blog. You can easily customize the theme by changing the accent colors, the arrangement of the widgets, etc.
-
-* * *
-
-### Demo
-
-Check the theme in action [Demo](https://norlin.netlify.app/)
-
-* * *
-
-### Deployment
-
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
-
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+Notas : O branch **publish** é o que está configurado para deploy via netlify.
 
 
-* * *
+## Como usar
 
-### Documentation
+### Lista Autores
+Os autores estão definidos no ficheiro `_data/authors.json` .
+A sua estrutura é definia por um array de objetos , tendo cada objeto 3 campos : 
 
-Before using the Norlin theme, please read the attached documentation.
+```json
+{
+        "id" : "texto",
+        "name" : "nome",
+        "avatar" : "/images/avatar/xxx.jpg"
+}
+```
+
+
+ O campo `id` deve ser igual ao campo `author` no topo de cada post. Isto garante que o nome fica associado a respetiva foto de perfil.
+
+### Como fazer posts
+
+Criar um ficheiro `.markdown` na pasta `_posts`. O cabeçalho têm o seguinte formato (exemplo): 
+```---
+layout: post
+title: "STR Industra Post Mortem"
+date: 2021-11-30 19:15:30
+categories: post-mortem
+tags:   [post-mortem, Vollumetric-Illusions]
+image:  '/images/wings_002.jpg'
+author: "Jae686"
+
+---
+```
+
+As categorias e as tags não estão normalizadas (são definidas por post), pelo , para as categorias, se deve seguir as definições na tabela abaixo para garantir que as mesmas categorias usam o mesmo texto descritivo. 
+O nome da categoria não pode conter espaços.
+
+Categorias :
+
+| Nome categoria | Descrição |
+|-----|-----------|
+|post-mortem| Post-Mortem de demos, projetos ou eventos|
+|part-report| Part Reports|
+|how-to| how-tos|
+---
