@@ -72,11 +72,11 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  bundler
+  bundler (~> 2.4.0)
   jekyll
   jekyll-paginate
   jekyll-sitemap
   jekyll-tagging
 
 BUNDLED WITH
-   2.5.6
+   2.4.22

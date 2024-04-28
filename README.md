@@ -1,6 +1,7 @@
 # Página ScenePT
-
 Baseada no tema [Norlin](https://norlin.netlify.app/).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8fa856e0-8f6c-40c9-8932-4aca71bad079/deploy-status)](https://app.netlify.com/sites/scenept01/deploys)
 
 
 

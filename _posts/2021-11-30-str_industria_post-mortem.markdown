@@ -3,9 +3,9 @@ layout: post
 title: "STR Industra Post Mortem"
 date: 2021-11-30 19:15:30
 categories: post-mortem
-tags:   [post-mortem, Vollumetric Illusions]
-image:  '/images/wings_002.JPG'
-auth: 'Jaerder'
+tags:   [post-mortem, Vollumetric-Illusions]
+image:  '/images/wings_002.jpg'
+author: "Jae686"
 
 featured : true
 ---
@@ -24,7 +24,7 @@ Abaixo segue uma tradução do artigo original.
 # VI Demogroup - STR Industria Post Mortem
 ###### Autor : Jae686
 
-![str industria](/images/wings_002.JPG)
+![str industria](/images/wings_002.jpg)
 
 STR: Industria foi uma demo cujo o proósito era ser uma introdução do nosso demogroup para a *demoscene* portuguesa.
 A demo é um *fly-by* por um cenário *flat-shaded*
@@ -34,7 +34,7 @@ A demo é um *fly-by* por um cenário *flat-shaded*
 Quando contactei o filami para formarmos um demogroup, eu não fazia idea das competencias dele relativamente a computação gráfica, naquela altura, e nem de quanto tempo seria necessário para implementar uma dada funcionalidade no motor gráfico.
 
 E além disso, nessa altura, eu não tinha conhecimentos sobre a criação de texturas e o respetivo processo para mapear essa textura em um modelo.
-A unica competência que tinha na altura era de modelação 3D em [Wings3D](http://http://www.wings3d.com/) 
+A unica competência que tinha na altura era de modelação 3D em [Wings3D](http://www.wings3d.com/) 
 
 
 Portanto, a unica forma de ser possivel termos uma demo pronta para a inercia demoparty (em 2003), era de fazer a demo o tão simples como possível, do ponto de vista tecnológico. Portanto a unica coisa em que podiamos "carregar" era nos modelos 3d utilizados na demo.

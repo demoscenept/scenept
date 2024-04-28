@@ -10,7 +10,7 @@ url: "https://scenepttest.netlify.app" # The base hostname & protocol for your s
 #-------------------------------
 # Author Settings
 author:
-  name: Jaerder Sousa
+  name: Scenept
   avatar: '/images/15.jpg'
 
 
@@ -93,3 +93,4 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
+
