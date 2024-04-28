@@ -50,6 +50,6 @@ Categorias :
 | Nome categoria | Descrição |
 |-----|-----------|
 |post-mortem| Post-Mortem de demos, projetos ou eventos|
-|part-report| Part Reports|
+|party-report| Part Reports|
 |how-to| how-tos|
 ---
