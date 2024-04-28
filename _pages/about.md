@@ -2,7 +2,7 @@
 layout: page
 title: Acerca de
 permalink: /about/
-image: '/images/60.jpg'
+image: '/images/InerciaHall.jpg'
 ---
 
 

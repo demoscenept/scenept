@@ -3,8 +3,8 @@ layout: post
 title: "STR Industra Post Mortem"
 date: 2021-11-30 19:15:30
 categories: post-mortem
-tags:   [post-mortem, Vollumetric Illusions]
-image:  '/images/wings_002.JPG'
+tags:   [post-mortem, Vollumetric-Illusions]
+image:  '/images/wings_002.jpg'
 auth: 'Jaerder'
 
 featured : true
@@ -24,7 +24,7 @@ Abaixo segue uma tradução do artigo original.
 # VI Demogroup - STR Industria Post Mortem
 ###### Autor : Jae686
 
-![str industria](/images/wings_002.JPG)
+![str industria](/scenept/images/wings_002.jpg)
 
 STR: Industria foi uma demo cujo o proósito era ser uma introdução do nosso demogroup para a *demoscene* portuguesa.
 A demo é um *fly-by* por um cenário *flat-shaded*
@@ -62,5 +62,5 @@ A implementação de funcionalidades que não estavam planeadas também foram um
 Com esta demo, aprendendemos imenso sobre as dificuldades e problemas no nosso processo de dcesenvolvimento, assim como aprendemos como melhorar no futuro.
 Também houve muito detalhe que foi modelado, mas que não foi devidamente explorado (o telespecador não podia ver os detalhas durante a demo = tempo de desenvolvimento desperdiçado)
 
-![str industria](/images/wings_003.jpg)
+![str industria](/scenept/images/wings_003.jpg)
 

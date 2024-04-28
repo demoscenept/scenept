@@ -1,8 +1,5 @@
 # Página ScenePT
-
 Baseada no tema [Norlin](https://norlin.netlify.app/).
-
-
 
 # Norlin
 

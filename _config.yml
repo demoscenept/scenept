@@ -5,7 +5,7 @@ logo: # You can add own logo. For example '/images/logo.png'.
 description: Scenept – A divulgar a Arte digital em Portugal.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://scenepttest.netlify.app" # The base hostname & protocol for your site, e.g. http://example.com
-
+#url: "https://videmogroup.org"
 
 #-------------------------------
 # Author Settings

@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem "bundler"
+gem "bundler" , "~> 2.4.0"
 gem "jekyll"
 gem "jekyll-paginate"
 gem 'jekyll-tagging'
