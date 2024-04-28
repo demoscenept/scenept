@@ -53,3 +53,37 @@ Categorias :
 |party-report| Part Reports|
 |how-to| how-tos|
 ---
+
+### Eventos
+
+Os eventos são listados em `_data/events.json` , e a informação guardada é a seguinte : 
+
+```
+[
+    {
+     "title" : "Synergy",
+     "date_start" : "2024-05-04",
+     "date_end" : "2024-05-05",
+     "description" : "Evento realizado com o museu ZX LOAD",
+     "local" : "Catanhede"
+    },
+    {
+        "title" : "Inercia Demoparty 2024",
+        "date_start" : "TBD",
+        "date_end" : "TBD",
+        "description" : "Inercia Demoparty",
+        "local" : "Almada"
+    }
+]
+```
+Para adicionar um Novo evento a tabela, basta acrescentar um novo evento no fim da lista
+
+```
+{
+        "title" : "Synergy",
+        "date_start" : "2024-05-04",
+        "date_end" : "2024-05-05",
+        "description" : "Evento realizado com o museu ZX LOAD",
+        "local" : "Catanhede"
+}
+```
