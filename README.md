@@ -4,7 +4,7 @@
 Baseada no tema [Norlin](https://norlin.netlify.app/).
 
 ## Status Deplyment
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8fa856e0-8f6c-40c9-8932-4aca71bad079/deploy-status)](https://app.netlify.com/sites/scenept01/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1390632a-7b4c-4cb6-826d-9835f6f535a7/deploy-status)](https://app.netlify.com/sites/scenept01/deploys)
 
 
 Notas : O branch **publish** é o que está configurado para deploy via netlify.
