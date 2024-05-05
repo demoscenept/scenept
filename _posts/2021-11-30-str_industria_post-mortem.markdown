@@ -6,8 +6,6 @@ categories: post-mortem
 tags:   [post-mortem, Vollumetric-Illusions]
 image:  '/images/wings_002.jpg'
 author: "Jae686"
-
-featured : true
 ---
 
 ###### Artigo original : [https://str-postmortem.videmogroup.org/](https://str-postmortem.videmogroup.org/)

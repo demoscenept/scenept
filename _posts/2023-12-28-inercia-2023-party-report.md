@@ -7,7 +7,6 @@ tags: [party-report, inercia2023]
 author: Jae686
 image: "/images/id2023/DSC05640-scaled.jpg"
 
-featured: true
 ---
 
 ## Contexto
