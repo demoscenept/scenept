@@ -36,7 +36,7 @@ Com musica ao vivo , cortesia do [Jeenio](https://demozoo.org/sceners/3048/).
 
 ## Competições
 
-Foram realizadas competições nas seguintes categorias, em um total de X submissões : 
+Foram realizadas competições nas seguintes categorias : 
 * ZX Spectrum Graphics
 * ZX Spectrum Music
 * ZX Spectrum 256b
