@@ -42,7 +42,7 @@ Foram realizadas competições nas seguintes categorias :
 * ZX Spectrum 256b
 * Wild Category
 
-As submissoes estão disponíveis no [demozoo](https://demozoo.org/parties/4904/).
+As produções estão disponíveis no [demozoo](https://demozoo.org/parties/4904/).
 
 ## Exibição Documentário 
 
