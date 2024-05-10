@@ -25,7 +25,7 @@ Durante o evento foram realizadas workshops de gráficos e música , ambos para 
 O evento contou com a presença de várias personalidades, como o Sr. Boye Peter Wheelhouse , que foi um dos autores do jogo [Formula One](https://www.mobygames.com/game/15262/formula-one/), O [Sr. Celso Martinho](https://celso.io/) , que também teve uma [apresentação na inercia demoparty em 2023](https://youtu.be/gwIBO4F0oFA?si=ocAKjTJ-A2e-7Cec).
 
 
-A lista das apresentações que foram realizadas durante o Synergy 2024 pode ser consultada [na timetable do evento](https://synergy2024.inercia.pt/index.php?page=Timetable) , e a lista completa dos oradores que compareceram ao elento podem ser consultada [aqui](https://synergy2024.inercia.pt/index.php?page=Guests).
+A lista das apresentações que foram realizadas durante o Synergy 2024 pode ser consultada [na timetable do evento](https://synergy2024.inercia.pt/index.php?page=Timetable) , e a lista completa dos oradores que compareceram ao elento pode ser consultada [aqui](https://synergy2024.inercia.pt/index.php?page=Guests).
 
 ## z80 Assembler Live Coding
 
@@ -42,7 +42,7 @@ Foram realizadas competições nas seguintes categorias :
 * ZX Spectrum 256b
 * Wild Category
 
-O link para as submissões serão colocados assim que estiverem disponiveis no pouet / demozoo.
+As submissoes estão disponíveis no [demozoo](https://demozoo.org/parties/4904/).
 
 ## Exibição Documentário 
 
@@ -58,7 +58,7 @@ Um das Palestras foi dado pelos autores do [divIDE](https://divide.cz/?x=manual)
 
 ![](/images/synergy2024/divide_001.png)
 
-Uma das primerias unidades montadas do divIDE foi oferecida ao museu no fim da Palestra.
+Uma das primeiras unidades montadas do divIDE foi oferecida ao museu no fim da Palestra.
 
 ## Galeria
 
