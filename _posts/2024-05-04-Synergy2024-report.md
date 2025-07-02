@@ -6,7 +6,7 @@ categories: event-report
 tags:   [Synergy, LOAD_ZX]
 image:  '/images/synergy2024/synergy001.jpg'
 author: "Jae686"
-featured : true
+featured : false
 ---
 
 # Synergy 2024
