@@ -11,7 +11,7 @@ featured : true
 ---
 
 # Posadas 2025 Party Report
-Este ano a associação inercia , [no contexto da sua missão de outreach da demoscene portuguesa](https://inercia.pt/?viewArticle=about_us&lang=pt), se fez representar por pequena comitiva na Posadas Demoparty 2025.
+Este ano a Associação Inércia , [no contexto da sua missão de divulgação da demoscene portuguesa](https://inercia.pt/?viewArticle=about_us&lang=pt), fez-se representar através de uma pequena comitiva na Posadas Demoparty 2025.
 
 A [Posadas demoparty](https://posadasparty.com/) é uma demoparty espanhola, com 30 anos de história, vocacionada ao Commodore AMIGA.
 
@@ -19,7 +19,7 @@ A [Posadas demoparty](https://posadasparty.com/) é uma demoparty espanhola, com
 
 ## Localização
 
-Esta demoparty é realizada em Córboda, Espanha, e a edição deste ano foi realizada no [Centro de Interpretación y Educación Ambiental](https://goo.gl/maps/AertSasvGbskYPm66) , na localidade de Posadas.
+Esta demoparty é realizada em [Córboda](https://pt.wikipedia.org/wiki/C%C3%B3rdova_(Espanha)), e a edição deste ano foi realizada no [Centro de Interpretación y Educación Ambiental](https://goo.gl/maps/AertSasvGbskYPm66) , na localidade de Posadas.
 
 Na mesma localização se encontra um restaurante bar no qual os participantes podiam comviver e ter as suas refeições.
 
