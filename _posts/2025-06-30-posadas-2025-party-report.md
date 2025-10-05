@@ -6,7 +6,7 @@ categories: ["posadas-2025" , "party-report"]
 tags: [party-report, posadas-2025]
 author: Jae686
 image: "/images/pd2025/posadas_cartel_2025.jpg"
-featured : true
+featured : false
 
 ---
 
