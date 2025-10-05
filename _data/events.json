@@ -23,4 +23,21 @@
         "local" : "Universidade de Aveiro",
         "url" : "https://festa2024.softwarelivre.eu/"
     }
+    ,
+     {
+        "title" : "Festa do Software Livre 2025",
+        "date_start" : "2025-10-03",
+        "date_end" : "2025-10-05",
+        "description" : "Um evento de celebração e disseminação de Software Livre, que conta com várias actividades, palestras, e workshops.",
+        "local" : "FEUP - Faculdade de Engenharia da Universidade do Porto",
+        "url" : "https://festa2025.softwarelivre.eu/"
+    },
+    {
+        "title" : "Inercia Demoparty 2025",
+        "date_start" : "2025-12-06",
+        "date_end" : "2025-12-07",
+        "description" : "Inercia Demoparty",
+        "local" : "Incrível Almadense, Almada, Portugal",
+        "url" : "https://2025.inercia.pt/"
+    }
 ]
