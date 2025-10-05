@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Festa do Software Livre 2025 Report"
+date: "2025-06-30"
+categories: ["FSL" , "events-report"]
+tags: [events-report, FSL-2025]
+author: Jae686
+image: "/images/fsl2025/fsf_logo_full.svg"
+featured : true
+---
+
+# Festa do Software Livre 2025
+
+Durante os dias 3, 4 e 5 de outubro a [ANSOL](https://ansol.org/) organizou a Feira do Software Livre [FSL](https://festa2025.softwarelivre.eu/), que este ano decorreu na [FEUP](https://www.up.pt/feup/pt/).
+
+
+A [Associação Inércia](http://www.inercia.pt) marcou presença neste evento tanto com uma banca a promover a associação e a inércia demoparty, como pela participação dos seus associados em diversar atividades como a workshop de Material maker, dada pelo Paulo Falcão , uma "apresentação relâmpago" do [SRL](https://github.com/reyeMe/SaturnRingLib) incluindo a mostra da demo para a sega saturn apresentada na Posadas Demoparty, que foi dada por min.
+
+Também estive a representar a Associação Inercia na talk "Comunidades a comversa" em que se discutiu sobre os desafios e as atividades que cada comunidade está a realizar.
+
+
+## Videos :
+### Comunidades a Comversa
+<iframe src="https://www.youtube.com/embed/lPQZZLAZUzs?si=nZBPT-zeyTGjXBXT&amp;start=26018" frameborder="0" allowfullscreen></iframe>
+
+### Apresentação Relâmpago SRL
+<iframe src="https://www.youtube.com/embed/QrH3QkQYP7c?si=_7UTqKb8eqa8tIw7&amp;start=14353" frameborder="0" allowfullscreen></iframe>
+
+
+<div class="gallery-box">
+    <div class="gallery">
+            <img src="/images/fsl2025/fsl_001.jpg">
+            <img src="/images/fsl2025/fsl_002.jpg">
+            <img src="/images/fsl2025/fsl_003.jpg">
+            <img src="/images/fsl2025/fsl_004.jpg">
+            <img src="/images/fsl2025/fsl_005.jpg">
+            <img src="/images/fsl2025/fsl_006.jpg" alt="Foto por Rafaela Pereira">
+        </div>
+        <em>Galleria</em>
+</div>
+
+
+# Acerca da ANSOL
+
+A ANSOL - Associação Nacional para o Software Livre é uma associação portuguesa sem fins lucrativos que tem como fim a divulgação, promoção, desenvolvimento, investigação e estudo da Informática Livre e das suas repercussões sociais, políticas, filosóficas, culturais, técnicas e científicas.
+
+# Acerca da Festa do Software Livre
+
+"A Festa do Software Livre 2025 (FSL2025) é uma conferência nacional gratuita e aberta ao público, concebida para celebrar e promover o universo do Software Livre e do código aberto."

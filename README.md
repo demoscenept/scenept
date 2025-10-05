@@ -52,6 +52,7 @@ Categorias :
 |post-mortem| Post-Mortem de demos, projetos ou eventos|
 |party-report| Part Reports|
 |how-to| how-tos|
+|events-report| Artigos sobre eventos |
 ---
 
 ### Eventos
