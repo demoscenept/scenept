@@ -14,14 +14,14 @@ featured : true
 Durante os dias 3, 4 e 5 de outubro a [ANSOL](https://ansol.org/) organizou a Feira do Software Livre [FSL](https://festa2025.softwarelivre.eu/), que este ano decorreu na [FEUP](https://www.up.pt/feup/pt/).
 
 
-A [Associação Inércia](http://www.inercia.pt) marcou presença neste evento tanto com uma banca a promover a associação e a inércia demoparty, como pela participação dos seus associados em diversar atividades como a workshop de Material maker, dada pelo Paulo Falcão , uma "apresentação relâmpago" do [SRL](https://github.com/reyeMe/SaturnRingLib) incluindo a mostra da demo para a sega saturn apresentada na Posadas Demoparty, que foi dada por min.
+A [Associação Inércia](http://www.inercia.pt) marcou presença neste evento tanto com uma banca a promover a associação e a inércia demoparty, como pela participação dos seus associados em diversas atividades como a workshop de Material maker, dada pelo Paulo Falcão , uma "apresentação relâmpago" do [SRL](https://github.com/reyeMe/SaturnRingLib) incluindo a mostra da demo para a sega saturn apresentada na Posadas Demoparty, que foi dada por min.
 
-Também estive a representar a Associação Inercia na talk "Comunidades a conversa" em que se discutiu sobre os desafios que atualmente enfrentamos e as atividades que cada comunidade está a realizar.
+Também estive a representar a Associação Inércia na talk "Comunidades a conversa" em que se discutiu sobre os desafios que atualmente enfrentamos e as atividades que cada comunidade está a realizar.
 
 
 ## Videos :
 
-### Comunidades a Comversa
+### Comunidades à Conversa
 <iframe src="https://www.youtube.com/embed/lPQZZLAZUzs?si=nZBPT-zeyTGjXBXT&amp;start=26018" frameborder="0" allowfullscreen></iframe>
 
 ### Apresentação Relâmpago SRL
