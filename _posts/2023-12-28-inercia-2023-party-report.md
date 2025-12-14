@@ -36,7 +36,7 @@ Embora esta tenha sido a primeira vez a dar suporte direto a realização da dem
 
 O que correu bem :
 - Os horários para a rotação dos colegas no infodesk estavam devidamente organizados e corretamente executados.
-- A localização foi sem dúvida uma melhoria comparativamente ao ano passado, tanto em termos de espaço como o que é fornmecido pelo mesmo (casas de banho maiores, acceso a um restaurante sem sair do edificio).
+- A localização foi sem dúvida uma melhoria comparativamente ao ano passado, tanto em termos de espaço como o que é fornecido pelo mesmo (casas de banho maiores, acceso a um restaurante sem sair do edificio).
 - A organização trabalhou como uma equipa, conseguido superar todos os problemas de ultima hora que tivemos durante o setup do evento.
 - O conteúdo dos seminários foi muito bom, e relevantes no contexto do evento!
 - Tivemos boas participações das competições.
