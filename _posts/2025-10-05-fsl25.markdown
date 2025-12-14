@@ -6,7 +6,7 @@ categories: ["FSL" , "events-report"]
 tags: [events-report, FSL-2025]
 author: Jae686
 image: "/images/fsl2025/fsf_logo_full.svg"
-featured : true
+featured : false
 ---
 
 # Festa do Software Livre 2025
